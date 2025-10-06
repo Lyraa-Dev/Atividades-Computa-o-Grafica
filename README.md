@@ -2,7 +2,7 @@ Simulação em Python para responder a ficha 01 da cadeira de Computação Grafi
 
 Grupo: José Ailton, Eduardo Silva e Ricardo Lyra 
 
-Esta lista de respostas está identada da seguinte forma R + Numero da questão + letra da questão_ficha1.py.
+Esta lista de respostas está escrita da seguinte forma R + Numero da questão + letra da questão_ficha1.py.
 Exemplo R1A_ficha1.py se refere a resposta da primeira questão letra A da ficha 1
 
 As perguntas referentes a matrizes em coordenadas homogêneas do operador afim e etc estarão sendo respondidas no terminal ao rodar o programa, infelizmente não me atentei em algumas questões onde o senhor pediu para simular todas ao mesmo tempo e acabei fazendo isso separadamente XDD, tentei identificar em cada parte do codigo o que cada função fazia ou do que se tratava cada parte do codigo 
@@ -29,3 +29,4 @@ Representar algumas das formas realizando as transformações solicitadas foi um
 Questão 4 -B
 
 Com essa ideia o plano A e B estariam rotacionando em torno do eixo D sendo o eixo A no sentido horario e B no sentido anti-horario com a mesma velocidade angular ω, com isso precisariamos fazer com que a definicação dos planos A e B se movimentassem de forma continua as normais e pontos de referencia do plano, na simulação isso faria com que os planos estivessem se "torcendo" junto com a cobrinha e alterando o ponto de colisão da fenda constantemente
+
